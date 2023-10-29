@@ -1,0 +1,58 @@
+.centered-content {
+    text-align: center;
+    /* 文本居中對齊 */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    /* 使容器充滿整個視窗高度 */
+}
+
+.rounded-image {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    overflow: hidden;
+    
+}
+
+.rounded-image img {
+    width: 100%;
+    height: auto;
+}
+
+#countdown {
+    text-align: center;
+    /* 文本居中对齐 */
+    font-size: 24px;
+    /* 字体放大 */
+    color: white;
+}
+
+#countdown .red {
+    color: red;
+    /* 字体颜色设置为红色 */
+}
+
+
+#countdown {
+    text-align: center;
+    /* 文本居中对齐 */
+    font-size: 24px;
+    /* 字体放大 */
+    
+}
+
+#countdown .red {
+    color: red;
+    /* 字体颜色设置为红色 */
+}
+
+body {
+    background-color: #0d1117;
+  }
+
+h1 {
+    color: white;
+}
